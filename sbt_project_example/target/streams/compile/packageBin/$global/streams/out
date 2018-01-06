@@ -1,0 +1,17 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /home/ramesh/IdeaProjects/sbt_project_example/target/scala-2.12/sbt_project_example_2.12-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	first_ex[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ramesh/IdeaProjects/sbt_project_example/target/scala-2.12/classes/first_ex[0m
+[0m[[0m[0mdebug[0m] [0m[0m	number_ex.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ramesh/IdeaProjects/sbt_project_example/target/scala-2.12/classes/number_ex.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	first_ex/second_ex.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ramesh/IdeaProjects/sbt_project_example/target/scala-2.12/classes/first_ex/second_ex.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	number_ex$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ramesh/IdeaProjects/sbt_project_example/target/scala-2.12/classes/number_ex$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	first_ex/second_ex$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ramesh/IdeaProjects/sbt_project_example/target/scala-2.12/classes/first_ex/second_ex$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	number_ex$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ramesh/IdeaProjects/sbt_project_example/target/scala-2.12/classes/number_ex$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	first_ex/second_ex$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ramesh/IdeaProjects/sbt_project_example/target/scala-2.12/classes/first_ex/second_ex$.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
