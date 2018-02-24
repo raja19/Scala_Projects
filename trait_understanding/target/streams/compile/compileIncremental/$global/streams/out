@@ -1,0 +1,14 @@
+[debug] Full compilation, no sources in previous analysis.
+[debug] All sources are invalidated.
+[debug] Recompiling all 4 sources: invalidated sources (4) exceeded 50.0% of all sources
+[info] Compiling 4 Scala sources to /home/ramesh/github_codes/Scala_Projects/trait_understanding/target/scala-2.12/classes ...
+[debug] Getting org.scala-sbt:compiler-bridge_2.12:1.1.1:compile for Scala 2.12.4
+[debug] Getting org.scala-sbt:compiler-bridge_2.12:1.1.1:compile for Scala 2.12.4
+[debug] [zinc] Running cached compiler 3abd0689 for Scala compiler version 2.12.4
+[debug] [zinc] The Scala compiler is invoked with:
+[debug] 	-bootclasspath
+[debug] 	/usr/java/jdk1.8.0_66/jre/lib/resources.jar:/usr/java/jdk1.8.0_66/jre/lib/rt.jar:/usr/java/jdk1.8.0_66/jre/lib/sunrsasign.jar:/usr/java/jdk1.8.0_66/jre/lib/jsse.jar:/usr/java/jdk1.8.0_66/jre/lib/jce.jar:/usr/java/jdk1.8.0_66/jre/lib/charsets.jar:/usr/java/jdk1.8.0_66/jre/lib/jfr.jar:/usr/java/jdk1.8.0_66/jre/classes:/home/ramesh/.sbt/boot/scala-2.12.4/lib/scala-library.jar
+[debug] 	-classpath
+[debug] 	/home/ramesh/github_codes/Scala_Projects/trait_understanding/target/scala-2.12/classes
+[debug] Scala compilation took 11.280787458 s
+[info] Done compiling.
