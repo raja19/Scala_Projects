@@ -1,0 +1,33 @@
+[debug] 
+[debug] Initial source changes: 
+[debug] 	removed:Set()
+[debug] 	added: Set()
+[debug] 	modified: Set(/home/ramesh/github_codes/Scala_Projects/Full_Example/src/main/scala/com/att/maincode/Full_Example.scala)
+[debug] Invalidated products: Set()
+[debug] External API changes: API Changes: Set()
+[debug] Modified binary dependencies: Set()
+[debug] Initial directly invalidated classes: Set(com.att.maincode.Full_Example)
+[debug] 
+[debug] Sources indirectly invalidated by:
+[debug] 	product: Set()
+[debug] 	binary dep: Set()
+[debug] 	external source: Set()
+[debug] All initially invalidated classes: Set(com.att.maincode.Full_Example)
+[debug] All initially invalidated sources:Set(/home/ramesh/github_codes/Scala_Projects/Full_Example/src/main/scala/com/att/maincode/Full_Example.scala)
+[info] Compiling 1 Scala source to /home/ramesh/github_codes/Scala_Projects/Full_Example/target/scala-2.12/classes ...
+[debug] Getting org.scala-sbt:compiler-bridge_2.12:1.1.5:compile for Scala 2.12.5
+[debug] Getting org.scala-sbt:compiler-bridge_2.12:1.1.5:compile for Scala 2.12.5
+[debug] [zinc] Running cached compiler 2dc8e1 for Scala compiler version 2.12.5
+[debug] [zinc] The Scala compiler is invoked with:
+[debug] 	-bootclasspath
+[debug] 	/usr/java/jdk1.8.0_66/jre/lib/resources.jar:/usr/java/jdk1.8.0_66/jre/lib/rt.jar:/usr/java/jdk1.8.0_66/jre/lib/sunrsasign.jar:/usr/java/jdk1.8.0_66/jre/lib/jsse.jar:/usr/java/jdk1.8.0_66/jre/lib/jce.jar:/usr/java/jdk1.8.0_66/jre/lib/charsets.jar:/usr/java/jdk1.8.0_66/jre/lib/jfr.jar:/usr/java/jdk1.8.0_66/jre/classes:/home/ramesh/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.5.jar
+[debug] 	-classpath
+[debug] 	/home/ramesh/github_codes/Scala_Projects/Full_Example/target/scala-2.12/classes
+[debug] Scala compilation took 9.806990494 s
+[info] Done compiling.
+[debug] New invalidations:
+[debug] 	Set()
+[debug] Initial set of included nodes: Set()
+[debug] Previously invalidated, but (transitively) depend on new invalidations:
+[debug] 	Set()
+[debug] All newly invalidated classes after taking into account (previously) recompiled classes:Set()

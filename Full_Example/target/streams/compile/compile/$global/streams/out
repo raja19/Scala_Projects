@@ -1,0 +1,8 @@
+[warn] /home/ramesh/github_codes/Scala_Projects/Full_Example/src/main/scala/com/att/maincode/Full_Example.scala:42:7: a pure expression does nothing in statement position; multiline expressions might require enclosing parentheses
+[warn]       email
+[warn]       ^
+[warn] /home/ramesh/github_codes/Scala_Projects/Full_Example/src/main/scala/com/att/maincode/Full_Example.scala:78:14: This catches all Throwables. If this is really intended, use `case _ : Throwable` to clear this warning.
+[warn]         case _ => println("ERRor Happened")
+[warn]              ^
+[warn] there was one deprecation warning (since 2.11.0); re-run with -deprecation for details
+[warn] three warnings found

@@ -1,0 +1,39 @@
+[info] Packaging /home/ramesh/github_codes/Scala_Projects/Full_Example/target/scala-2.12/full_example_2.12-0.1.jar ...
+[debug] Input file mappings:
+[debug] 	com/att/functions/loops_class.class
+[debug] 	  /home/ramesh/github_codes/Scala_Projects/Full_Example/target/scala-2.12/classes/com/att/functions/loops_class.class
+[debug] 	com
+[debug] 	  /home/ramesh/github_codes/Scala_Projects/Full_Example/target/scala-2.12/classes/com
+[debug] 	com/att/functions/abstract_class.class
+[debug] 	  /home/ramesh/github_codes/Scala_Projects/Full_Example/target/scala-2.12/classes/com/att/functions/abstract_class.class
+[debug] 	com/att/maincode/Full_Example$.class
+[debug] 	  /home/ramesh/github_codes/Scala_Projects/Full_Example/target/scala-2.12/classes/com/att/maincode/Full_Example$.class
+[debug] 	com/att/maincode
+[debug] 	  /home/ramesh/github_codes/Scala_Projects/Full_Example/target/scala-2.12/classes/com/att/maincode
+[debug] 	com/att/functions/partially_applied.class
+[debug] 	  /home/ramesh/github_codes/Scala_Projects/Full_Example/target/scala-2.12/classes/com/att/functions/partially_applied.class
+[debug] 	com/att/functions/use_trait.class
+[debug] 	  /home/ramesh/github_codes/Scala_Projects/Full_Example/target/scala-2.12/classes/com/att/functions/use_trait.class
+[debug] 	com/att
+[debug] 	  /home/ramesh/github_codes/Scala_Projects/Full_Example/target/scala-2.12/classes/com/att
+[debug] 	com/att/maincode/Full_Example.class
+[debug] 	  /home/ramesh/github_codes/Scala_Projects/Full_Example/target/scala-2.12/classes/com/att/maincode/Full_Example.class
+[debug] 	com/att/functions/nested_function.class
+[debug] 	  /home/ramesh/github_codes/Scala_Projects/Full_Example/target/scala-2.12/classes/com/att/functions/nested_function.class
+[debug] 	com/att/functions/trait_example2.class
+[debug] 	  /home/ramesh/github_codes/Scala_Projects/Full_Example/target/scala-2.12/classes/com/att/functions/trait_example2.class
+[debug] 	com/att/functions
+[debug] 	  /home/ramesh/github_codes/Scala_Projects/Full_Example/target/scala-2.12/classes/com/att/functions
+[debug] 	com/att/functions/per_info.class
+[debug] 	  /home/ramesh/github_codes/Scala_Projects/Full_Example/target/scala-2.12/classes/com/att/functions/per_info.class
+[debug] 	com/att/functions/trait_example.class
+[debug] 	  /home/ramesh/github_codes/Scala_Projects/Full_Example/target/scala-2.12/classes/com/att/functions/trait_example.class
+[debug] 	com/att/functions/Named_Function.class
+[debug] 	  /home/ramesh/github_codes/Scala_Projects/Full_Example/target/scala-2.12/classes/com/att/functions/Named_Function.class
+[debug] 	com/att/functions/PatternMatch_class.class
+[debug] 	  /home/ramesh/github_codes/Scala_Projects/Full_Example/target/scala-2.12/classes/com/att/functions/PatternMatch_class.class
+[debug] 	com/att/functions/call_by_name.class
+[debug] 	  /home/ramesh/github_codes/Scala_Projects/Full_Example/target/scala-2.12/classes/com/att/functions/call_by_name.class
+[debug] 	com/att/functions/multiple_parameters.class
+[debug] 	  /home/ramesh/github_codes/Scala_Projects/Full_Example/target/scala-2.12/classes/com/att/functions/multiple_parameters.class
+[info] Done packaging.

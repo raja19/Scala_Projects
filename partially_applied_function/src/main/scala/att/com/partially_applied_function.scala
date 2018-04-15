@@ -1,4 +1,3 @@
-//import com.sun.crypto.provider.AESCipher.AES128_CBC_NoPadding
 
 object partially_applied_function {
   def main(args: Array[String]): Unit = {
